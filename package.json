@@ -24,6 +24,7 @@
     "@tabler/icons-react": "^3.16.0",
     "@tailwindcss/forms": "^0.5.7",
     "@types/canvas-confetti": "^1.6.4",
+    "@yudiel/react-qr-scanner": "^2.6.0",
     "button": "^1.1.1",
     "canvas-confetti": "^1.9.3",
     "class-variance-authority": "^0.7.0",
