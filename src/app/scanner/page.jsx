@@ -1,4 +1,5 @@
 "use client";
+
 import { db } from "@/app/firebase/firebaseConfig";
 import QrCodeScanner from "@/components/layout/scanner";
 import { Alert, AlertTitle } from "@/components/ui/alert";
